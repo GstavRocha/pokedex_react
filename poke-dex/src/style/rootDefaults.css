@@ -1,0 +1,12 @@
+:root{
+    --jaffa: rgba(241,149,68,1);
+    --valencia: rgba(211,77,53,1);
+    --desert-storm: rgba(243,242,241,1);
+    --golden-sand: rgba(241,200,119,1);
+    --fonte: rgba(60,59,57,1);
+    --brandy-rose: rgba(187,143,120,1);
+    --silver-rust: rgba(203,189,182,1);
+    --bombay: rgba(171,172,173,1);
+    --falcon: rgba(136,92,108,1);
+    color: black;
+}
